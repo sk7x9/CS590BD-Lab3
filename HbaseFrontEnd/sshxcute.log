@@ -1,0 +1,70 @@
+
+=============== [2014/06/22 07:31:45, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[07:31:45] INFO:    SSHExec initializing ...
+[07:31:45] INFO:    Session initialized and associated with user credential cloudera
+[07:31:45] INFO:    SSHExec initialized successfully
+[07:31:45] INFO:    SSHExec trying to connect cloudera@134.193.136.127
+[07:31:47] INFO:    SSH connection established
+[07:31:47] INFO:    Ready to transfer local file 'E://sensor.txt' to server directory '/home/cloudera/'
+[07:31:48] INFO:    Connection channel established succesfully
+[07:31:48] INFO:    Start to upload
+[07:31:49] INFO:    Upload success
+[07:31:49] INFO:    channel disconnect
+[07:31:49] INFO:    SSH connection shutdown
+
+=============== [2014/06/22 07:32:42, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[07:32:42] INFO:    SSHExec initializing ...
+[07:32:42] INFO:    Session initialized and associated with user credential cloudera
+[07:32:42] INFO:    SSHExec initialized successfully
+[07:32:42] INFO:    SSHExec trying to connect cloudera@134.193.136.127
+[07:32:43] INFO:    SSH connection established
+[07:32:43] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/cloudera/'
+[07:32:43] INFO:    Connection channel established succesfully
+[07:32:43] INFO:    Start to upload
+[07:32:43] INFO:    Upload success
+[07:32:43] INFO:    channel disconnect
+[07:32:43] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 04:40:24, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[04:40:24] INFO:    SSHExec initializing ...
+[04:40:24] INFO:    Session initialized and associated with user credential cloudera
+[04:40:24] INFO:    SSHExec initialized successfully
+[04:40:24] INFO:    SSHExec trying to connect cloudera@134.193.136.127
+[04:40:26] INFO:    SSH connection established
+[04:40:26] INFO:    Ready to transfer local file 'c://sensordata.txt' to server directory '/home/cloudera/'
+[04:40:27] INFO:    Connection channel established succesfully
+[04:40:27] INFO:    Start to upload
+[04:40:28] INFO:    Upload success
+[04:40:28] INFO:    channel disconnect
+[04:40:28] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:13:06, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:13:06] INFO:    SSHExec initializing ...
+[10:13:06] INFO:    Session initialized and associated with user credential cloudera
+[10:13:06] INFO:    SSHExec initialized successfully
+[10:13:06] INFO:    SSHExec trying to connect cloudera@134.193.136.127
+[10:13:09] INFO:    SSH connection established
+[10:13:09] INFO:    Ready to transfer local file 'c://sensordata.txt' to server directory '/home/cloudera/'
+[10:13:09] INFO:    Connection channel established succesfully
+[10:13:09] INFO:    Start to upload
+[10:13:11] INFO:    Upload success
+[10:13:11] INFO:    channel disconnect
+[10:13:11] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:53:56, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:53:56] INFO:    SSHExec initializing ...
+[10:53:57] INFO:    Session initialized and associated with user credential cloudera
+[10:53:57] INFO:    SSHExec initialized successfully
+[10:53:57] INFO:    SSHExec trying to connect cloudera@134.193.136.127
+[10:54:23] INFO:    SSH connection established
+[10:54:30] INFO:    Ready to transfer local file 'c://sk7x9.txt' to server directory '/home/cloudera/'
+[10:54:35] INFO:    Connection channel established succesfully
+[10:54:35] INFO:    Start to upload
+[10:54:37] INFO:    Upload success
+[10:54:37] INFO:    channel disconnect
+[10:54:37] INFO:    SSH connection shutdown
